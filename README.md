@@ -42,4 +42,7 @@ The dataset contains feature like:
 
 ----
 ## Output
+The model predicts crop yield based on features and helps in better agricultural planning.
+
+## NOTE
 This is a beginner-friendly machine learning project made for learning purpose.
